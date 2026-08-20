@@ -1,0 +1,10 @@
+# Publish only the SDT skill suite from this workspace.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/skills/
+
+# macOS metadata
+.DS_Store
+

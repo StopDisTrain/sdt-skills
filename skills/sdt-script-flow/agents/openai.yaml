@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 逐字稿流畅度"
+  short_description: "检查和修复逐字稿衔接信息密度口播节奏与观众流失风险位置"
+  default_prompt: "使用 $sdt-script-flow 检查这份逐字稿并产出顺畅可拍版本。"

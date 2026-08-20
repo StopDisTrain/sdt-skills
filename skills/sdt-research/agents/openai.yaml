@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 内容检索"
+  short_description: "只读检索小红书账号笔记标题封面和公开互动数据并保留来源证据"
+  default_prompt: "使用 $sdt-research 在小红书检索目标账号与公开笔记并整理证据。"

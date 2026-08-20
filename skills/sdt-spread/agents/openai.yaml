@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 爆款机制"
+  short_description: "提炼爆款样本的受众情绪传播动机有效立场和可迁移承重机制"
+  default_prompt: "使用 $sdt-spread 解码这些爆款内容真正可迁移的传播机制。"

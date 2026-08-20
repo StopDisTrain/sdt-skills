@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 视频开头"
+  short_description: "在正文完成后诊断素材质量并生成可口播可兑现的前五秒开头方案"
+  default_prompt: "使用 $sdt-hook 优化这条短视频可独立成立的前五秒开头。"

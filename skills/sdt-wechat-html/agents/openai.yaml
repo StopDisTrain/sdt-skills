@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 公众号发布"
+  short_description: "独立把定稿Markdown转换成可粘贴到微信公众号后台的行内样式HTML"
+  default_prompt: "使用 $sdt-wechat-html 只把这篇定稿内容制作成微信公众号发布版。"

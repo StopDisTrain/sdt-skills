@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 账号建模"
+  short_description: "建立账号人设产品受众表达边界和可复用事实档案供后续生产使用"
+  default_prompt: "使用 $sdt-account 为这个运营账号建立可复用且可核验的账号档案。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 对标筛选"
+  short_description: "筛选适合目标账号研究的垂直邻近和跨赛道低粉爆款内容样本"
+  default_prompt: "使用 $sdt-benchmark 为目标账号筛选可靠且可迁移的内容对标。"

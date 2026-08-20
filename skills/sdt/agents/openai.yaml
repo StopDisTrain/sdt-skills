@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 内容生产系统"
+  short_description: "单步骤优先路由标题选题成稿质检或按需运行完整内容生产流程"
+  default_prompt: "使用 $sdt 判断并只执行我当前需要的一个内容生产步骤。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 共鸣质检"
+  short_description: "检查文稿核心机制受众情绪有效立场传播入口和产品落点是否成立"
+  default_prompt: "使用 $sdt-resonate 检查这份内容是否真正击中目标受众。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 小红书封面"
+  short_description: "根据内容机制账号视觉和参考样本设计小红书封面文案构图与测试方案"
+  default_prompt: "使用 $sdt-cover 为这条小红书内容设计可执行的封面方案。"

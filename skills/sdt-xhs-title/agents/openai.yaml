@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 小红书标题"
+  short_description: "只需主题正文或已有标题即可独立生成和筛选小红书标题候选"
+  default_prompt: "使用 $sdt-xhs-title 只为这个主题生成并筛选小红书标题。"

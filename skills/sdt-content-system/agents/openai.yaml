@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 内容资产系统"
+  short_description: "持续沉淀账号档案研究证据选题成稿发布表现和复盘结论形成资产"
+  default_prompt: "使用 $sdt-content-system 把本次生产结果和发布表现沉淀进内容资产库。"

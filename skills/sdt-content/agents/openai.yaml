@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDT 内容成稿"
+  short_description: "把通过审核的选题生产成符合账号语气且可以直接拍摄发布的完整内容"
+  default_prompt: "使用 $sdt-content 把这个已通过审核的选题做成可直接拍摄的内容。"
