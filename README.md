@@ -1,6 +1,6 @@
 # SDT Skills
 
-SDT 是一套面向内容研究、选题、创作、质检与资产沉淀的 Codex Skills。
+SDT 是一套面向小红书内容研究、选题、创作、质检与资产沉淀的 Codex Skills。
 
 ## 包含模块
 
